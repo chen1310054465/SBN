@@ -1,0 +1,6 @@
+torch==1.7.1+cu101
+numpy==1.18.5
+thop==0.0.31.post2005241907
+transformers==4.3.3
+tqdm==4.51.0
+allennlp==1.3.0
